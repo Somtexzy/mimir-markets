@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-342-fix-ui-stop-hard-coding-english-phase-labels-in",
+    "fix/issue-369-docs-contracts-document-the-squad-cancellation",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-342-fix-ui-stop-hard-coding-english-phase-labels-in": "main",
+    "fix/issue-369-docs-contracts-document-the-squad-cancellation": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-342-fix-ui-stop-hard-coding-english-phase-labels-in",
+    "fix/issue-369-docs-contracts-document-the-squad-cancellation",
+    "origin"
+  ]
+}
